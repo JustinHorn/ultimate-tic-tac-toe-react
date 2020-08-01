@@ -3,7 +3,7 @@
 ---
 
 Play ultiamte tic-tac-toe or watch it being played by two monte carlo algorithms.  
-[Gh-Pages](https://justinhorn.name/ultimate-tic-tac-toe-react/index.html)
+[Gh-Pages](https://justinhorn.github.io/ultimate-tic-tac-toe-react/)
 
 
 Credits for the grid ui goes to:
